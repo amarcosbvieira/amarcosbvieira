@@ -49,4 +49,38 @@ um dilema estranho, onde o volume de informações pode ser uma dádiva ou um pr
    - 📝 Description: [Já pensou em usar os conflitos como aliados na carreira de tecnologia? Parece loucura, mas acredite. Artigo voltado aos profissionais tech mas com conhecimentos que se aplicam a qualquer outra área.](https://www.dio.me/articles/tornando-os-conflitos-seus-melhores-aliados-na-carreira-em-tecnologia)
 
 Feel free to dive in and share your thoughts! These articles cover a range of topics related to my journey and expertise. 🚀
-  
+
+##
+
+```csharp
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        int coffeeQuantity = 3;
+        string generatedCode = TransformCoffeeIntoCode(coffeeQuantity);
+
+        Console.WriteLine($"Generated code: {generatedCode}");
+    }
+
+    static string TransformCoffeeIntoCode(int quantity)
+    {
+        string code = "";
+        
+        for (int i = 0; i < quantity; i++)
+        {
+            code += "C";
+        }
+
+        code += "ode";
+
+        return code;
+    }
+}
+```
+<img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="120" height="120"> <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="120" height="120"> <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="120" height="120"> <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="120" height="120"> <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="120" height="120"> <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="120" height="120"> <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="120" height="120"> <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="120" height="120">
+
+
+

@@ -1,9 +1,18 @@
-### Hi there 👋
+## Marcos Vieira
 
-<!--
-**amarcosbvieira/amarcosbvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Marcos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Marcos-Dotnet" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg">
+  <img align="center" alt="Marcos-Dynamics" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Dynamics365-color.svg">
+  <img align="center" alt="Marcos-Java" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Marcos-Ipss" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg">   
+</div>
 
-Here are some ideas to get you started:
+##
+
+<div> 
+  <a href="https://www.linkedin.com/in/amarcosbvieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

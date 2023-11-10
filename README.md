@@ -59,16 +59,16 @@ class Program
 {
     static void Main()
     {
-        int coffeeQuantity = 3;
+        int coffeeQuantity = 5;
         string generatedCode = TransformCoffeeIntoCode(coffeeQuantity);
 
-        Console.WriteLine($"Generated code: {generatedCode}");
+        Console.WriteLine($"Voilà! Resultado de {coffeeQuantity} xícaras de café: {generatedCode}");
     }
 
     static string TransformCoffeeIntoCode(int quantity)
     {
         string code = "";
-        
+
         for (int i = 0; i < quantity; i++)
         {
             code += "C";

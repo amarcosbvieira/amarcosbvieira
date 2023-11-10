@@ -24,12 +24,30 @@ I'm all about collaboration driven by motivation, focus, creativity, strategy, a
 
 Feel free to reach out! 💡 Let's make a difference in the tech world!
 
-<div> 
-  <a href="https://www.linkedin.com/in/amarcosbvieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+##
+
+## 🔎 Where to find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarcosbvieira)
+
+[![LinkedIn](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/GI5IJ4FFOX25N1)
 
 ##
 
+## Fun Facs
 
+Did you know that I've contributed to the tech community through published articles on Digital Innovation One (DIO)? Check out some highlights below:
+
+1. **Como manter-se focado e na direção certa em um mundo ultra informativo?**
+   - 📝 Description: [(Portuguese) Um desafio super presente para qualquer pessoa que queira se informar nos dias de hoje.
+um dilema estranho, onde o volume de informações pode ser uma dádiva ou um problema.](https://www.dio.me/articles/como-manter-se-focado-e-na-direcao-certa-em-um-mundo-ultra-informativo)
+
+2. **Article Title 2**
+   - 📝 Description: [Link to Article 2](link_to_article_2)
+
+3. **Article Title 3**
+   - 📝 Description: [Link to Article 3](link_to_article_3)
+
+Feel free to dive in and share your thoughts! These articles cover a range of topics related to my journey and expertise. 🚀
 
   

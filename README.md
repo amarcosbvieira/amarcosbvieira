@@ -1,4 +1,4 @@
-## Marcos Vieira
+# Console.WriteLine("Hello World, Marcos Vieira is my name");
 
 ### Welcome to my Tech Journey 🚀
 Hey there! 👋 I'm in the midst of an exciting career transition into the world of technology, diving deep into Full-Stack Software Development with a focus on C#, Dynamics, and .NET. My goal is to tackle challenges, craft specialized tools, optimize resource management, and foster leadership growth through strategic thinking, innovation, and tech.
@@ -29,13 +29,10 @@ Feel free to reach out! 💡 Let's make a difference in the tech world!
 ## 🔎 Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarcosbvieira)
-
 <a href="mailto:amarcosbvieira@gmail.com">
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/GI5IJ4FFOX25N1)
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/GI5IJ4FFOX25N1)
-
 [<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://www.dio.me/users/amarcosbvieira)
 
 ##
@@ -52,6 +49,4 @@ um dilema estranho, onde o volume de informações pode ser uma dádiva ou um pr
    - 📝 Description: [Já pensou em usar os conflitos como aliados na carreira de tecnologia? Parece loucura, mas acredite. Artigo voltado aos profissionais tech mas com conhecimentos que se aplicam a qualquer outra área.](https://www.dio.me/articles/tornando-os-conflitos-seus-melhores-aliados-na-carreira-em-tecnologia)
 
 Feel free to dive in and share your thoughts! These articles cover a range of topics related to my journey and expertise. 🚀
-
-
   

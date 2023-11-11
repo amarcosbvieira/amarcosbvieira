@@ -62,7 +62,7 @@ class Program
         int coffeeQuantity = 5;
         string generatedCode = TransformCoffeeIntoCode(coffeeQuantity);
 
-        Console.WriteLine($"Voilà! Resultado de {coffeeQuantity} xícaras de café: {generatedCode}");
+        Console.WriteLine($"Voilà! Result of {coffeeQuantity} cups of coffee: {generatedCode}");
     }
 
     static string TransformCoffeeIntoCode(int quantity)

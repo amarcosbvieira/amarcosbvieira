@@ -29,10 +29,10 @@ Feel free to reach out! 💡 Let's make a difference in the tech world!
 ## 🔎 Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarcosbvieira)
-<a href="mailto:amarcosbvieira@gmail.com">
+<a>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/GI5IJ4FFOX25N1)
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarcosbvieira@gmail.com)
 [<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://www.dio.me/users/amarcosbvieira)
 
 ##

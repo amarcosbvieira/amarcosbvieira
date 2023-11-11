@@ -32,7 +32,7 @@ Feel free to reach out! 💡 Let's make a difference in the tech world!
 <a>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/GI5IJ4FFOX25N1)
 </a>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:amarcosbvieira@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarcosbvieira@gmail.com)
 [<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://www.dio.me/users/amarcosbvieira)
 
 ##

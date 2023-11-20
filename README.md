@@ -1,6 +1,9 @@
 # Console.WriteLine("Hello World, Marcos Vieira is my name");
 
 ### Welcome to my Tech Journey 🚀
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="350px" align="right">
+
+<p align="left"> 
 Hey there! 👋 I'm in the midst of an exciting career transition into the world of technology, diving deep into Full-Stack Software Development with a focus on C#, Dynamics, and .NET. My goal is to tackle challenges, craft specialized tools, optimize resource management, and foster leadership growth through strategic thinking, innovation, and tech.
 
 <div style="display: inline_block"><br>
@@ -82,5 +85,14 @@ class Program
 ```
 <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="117" height="117">    <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="117" height="117">    <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="117" height="117">    <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="117" height="117">    <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="117" height="117">    <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="117" height="117">    <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="117" height="117">
 
+<div align="center">
+  <h3><b>Profile Visitor Count</b></h3>
+</div>
 
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/amarcosbvieira/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
 
